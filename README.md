@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yaoqi Liao
+- 🖥 I’m interested in data analytics and data visualization
+- 🌱 I’m currently learning ML and NLP
+- 🙋‍♀️ Looking for an internship in data analytics field right now
